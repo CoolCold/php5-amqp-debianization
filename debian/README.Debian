@@ -1,0 +1,7 @@
+php-amqp for Debian
+--------------------------
+
+This extension has been created with dh-make-pecl which is part
+of dh-make-php.
+
+ -- Roman Ovchinnikov <coolthecold@gmail.com>, Mon, 09 Apr 2012 15:52:34 +0400

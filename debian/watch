@@ -1,0 +1,3 @@
+version=3
+http://pecl.php.net/package/amqp \
+  /get/amqp-([\d\.]*).tgz  debian  uupdate
