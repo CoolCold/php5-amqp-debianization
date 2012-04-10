@@ -1,6 +1,6 @@
 php-amqp (1.0.1-1) unstable; urgency=low
 
-  * Initial Release (Closes: #<ITP bug number>).
+  * Initial Release (created with dh-make-pecl)
 
  -- Roman Ovchinnikov <coolthecold@gmail.com>  Mon, 09 Apr 2012 15:52:34 +0400
 
